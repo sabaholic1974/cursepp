@@ -104,4 +104,4 @@ See `examples/fizzbuzz.cpp` for the original 30-line FizzBuzz.
 
 ## License
 
-MIT License. See [LICENSE](LICENSE). When redistributing, retain the copyright and permission notice. The copyright holder `CURSE++ contributors` is a provisional label; replace it with the actual copyright holder before publishing.
+MIT License. See [LICENSE](LICENSE). When redistributing, retain the copyright and permission notice. 
